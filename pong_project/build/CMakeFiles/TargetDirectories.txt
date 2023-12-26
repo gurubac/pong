@@ -1,0 +1,3 @@
+/Users/guru/Desktop/college/3Y_1S/oop/pong_project/build/CMakeFiles/pong.dir
+/Users/guru/Desktop/college/3Y_1S/oop/pong_project/build/CMakeFiles/edit_cache.dir
+/Users/guru/Desktop/college/3Y_1S/oop/pong_project/build/CMakeFiles/rebuild_cache.dir
