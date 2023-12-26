@@ -1,5 +1,3 @@
-![image](https://github.com/gurubac/pong/assets/59124862/305cdfbc-ad14-43df-be33-8b7b15908c71)
-
 ## Overview
 
 This project is a simple game developed using the SDL2 (Simple DirectMedia Layer) library. SDL2 was chosen for its cross-platform capabilities, built-in renderer, and comprehensive tools for game development, such as SDL_Rect for rectangles, SDL_TTF for font loading, and SDL_Mixer for sound loading. The project follows a structured approach, utilizing a GameEntity class as the base for game objects, and then deriving specific classes for the ball and paddles.
@@ -37,3 +35,11 @@ CMake is used as the build system, providing a cross-platform solution. Troubles
 3. Use CMake to generate build files.
 4. Build the project.
 5. Run the executable.
+
+## Gallery
+<img width="929" alt="image" src="https://github.com/gurubac/pong/assets/59124862/f95811f1-885a-46d8-a329-a12d70f91431">
+<img width="818" alt="image" src="https://github.com/gurubac/pong/assets/59124862/71ae78c1-96e3-4e9a-9c82-59ae448a2c45">
+<img width="809" alt="image" src="https://github.com/gurubac/pong/assets/59124862/d86be4d2-6862-4cd6-9e3d-70e82ec4ad32">
+<img width="1021" alt="image" src="https://github.com/gurubac/pong/assets/59124862/eaa95f1b-b688-4d9d-a3c4-c7506f8432ba">
+<img width="1015" alt="image" src="https://github.com/gurubac/pong/assets/59124862/c6151916-da9d-4599-b35f-b31d073cce0c">
+
